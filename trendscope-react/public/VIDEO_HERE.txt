@@ -1,0 +1,3 @@
+Place your video file here and name it exactly: video.mp4
+Expected path: public/video.mp4
+The React hero section loads it automatically.
